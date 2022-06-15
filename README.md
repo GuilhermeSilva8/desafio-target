@@ -37,3 +37,9 @@ f) 2, 10, 12, 16, 17, 18, 19, __200__
 
 Sequência de números que começam com a letra D
 
+## Questão 4
+
+Um cuidado necessário é estabelecer um sentido positivo e um ponto inicial. Nesse caso, podemos estabelecer que o ponto inicial do Carro é o ponto 0 e o sentido positivo é de Ribeirão Preto para Franca, logo, o Carro tem velocidade positiva e o Caminhão velocidade negativa. Bem como o Carro vai do ponto 0 (Ribeirão Preto) em direção ao ponto d = 100Km (Franca) e o Caminhão faz o caminho oposto, saindo do ponto d = 100Km e indo em direção ao d = 0.
+Como os dois veículos tem velocidade constante, para achar o momento em que eles se cruzam na rodovia basta igualar as duas equações do MRU (Movimento Retilíneo Uniforme) uma de cada veículo.
+Fazendo isso encontramos o momento em que eles se encontram e usando esse valor nas equações do movimento encontramos o mesmo valor final nas duas equações que é o valor da posição em que eles se encontram, e esse valor é aproximadamente 62.
+

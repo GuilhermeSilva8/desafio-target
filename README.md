@@ -43,3 +43,6 @@ Um cuidado necessário é estabelecer um sentido positivo e um ponto inicial. Ne
 Como os dois veículos tem velocidade constante, para achar o momento em que eles se cruzam na rodovia basta igualar as duas equações do MRU (Movimento Retilíneo Uniforme) uma de cada veículo.
 Fazendo isso encontramos o momento em que eles se encontram e usando esse valor nas equações do movimento encontramos o mesmo valor final nas duas equações que é o valor da posição em que eles se encontram, e esse valor é aproximadamente 62.
 
+## Questão 5
+
+Código feito em Java se encontra dentro da pasta ReverteString no arquivo ReverteString.java
